@@ -26,13 +26,15 @@ h1{
   width:25%;
   border-radius: 50%;
   float: left;
-  position: relative; top: 70px;
+  position: relative; top: 20px;
 
 }
 .m{
   width:25%;
   border-radius: 50%;
   float: left;
+  position: relative; bottom: 20px;
+  
   
 .austext{
   margin-left:30%;
