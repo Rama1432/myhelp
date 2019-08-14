@@ -29,6 +29,11 @@ h1{
   position: relative; top: 70px;
 
 }
+.m{
+  width:25%;
+  border-radius: 50%;
+  float: left;
+  
 .austext{
   margin-left:30%;
   text-align: left;
